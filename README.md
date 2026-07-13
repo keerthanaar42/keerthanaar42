@@ -12,7 +12,6 @@
 I'm an EEE graduate who fell in love with what's *underneath* the code — registers, interrupts, and system calls. I don't treat hardware as a black box; my electrical engineering background lets me reason about the circuit **and** the C that talks to it.
 
 - 🔭 Currently building systems-level projects in **C** — shells, network protocols, and PIC16F877A firmware
-- 🌱 Learning **Linux internals, IPC, and embedded protocol stacks** (UART, SPI, I²C, CAN)
 - ⚙️ I enjoy building practical projects—from embedded applications to interactive utilities that solve everyday problems.
 - 📫 Reach me at **keerthana.ar.in@gmail.com**
 
@@ -54,20 +53,6 @@ I'm an EEE graduate who fell in love with what's *underneath* the code — regis
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | What it does | Core concepts |
-|---|---|---|
-| 🐚 **[Mini Shell (msh)](#)** | A custom Unix shell — command execution, job control, pipes | `fork/exec`, `sigaction`, linked-list job table |
-| 🔢 **[Arbitrary Precision Calculator](#)** | CLI calculator for arbitrarily large integers | DLL, pointer-to-pointer, digit-by-digit arithmetic |
-| 🔍 **[Inverted Search Engine](#)** | Indexes text files by word across a menu-driven CLI | Linked list of linked lists, file I/O |
-| 🖼️ **[Image Steganography](#)** | Hides text inside BMP images via LSB encoding | Bitwise ops, binary file handling |
-| 🚗 **[Car Black Box](#)** | Logs speed, gear shifts & collisions in real time | PIC16F877A, DS1307 RTC, EEPROM, CLCD |
-| 🍽️ **[Microwave Oven Simulation](#)** | Bare-metal cooking states, no RTOS | Timer2 ISR, 8+ state FSM |
-
 
 ---
 
