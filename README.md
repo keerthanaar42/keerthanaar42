@@ -1,3 +1,7 @@
+<img width="1000" height="150" alt="banner_shootingstar" src="https://github.com/user-attachments/assets/17cb47d1-3881-43ee-a949-16b5bef29be4" />
+
+
+
 <h1 align="left"> Keerthana AR</h1>
 <h3 align="left">Embedded Systems | Systems Programming | C at the core</h3>
 
