@@ -58,6 +58,17 @@ I'm an EEE graduate who fell in love with what's *underneath* the code — regis
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+### 🚀 Featured Projects
+
+| Project | What it does | Core concepts |
+|---|---|---|
+| 🐚 **[Mini Shell (msh)](#)** | A custom Unix shell — command execution, job control, pipes | `fork/exec`, `sigaction`, linked-list job table |
+| 🔢 **[Arbitrary Precision Calculator](#)** | CLI calculator for arbitrarily large integers | DLL, pointer-to-pointer, digit-by-digit arithmetic |
+| 🔍 **[Inverted Search Engine](#)** | Indexes text files by word across a menu-driven CLI | Linked list of linked lists, file I/O |
+| 🖼️ **[Image Steganography](#)** | Hides text inside BMP images via LSB encoding | Bitwise ops, binary file handling |
+| 🚗 **[Car Black Box](#)** | Logs speed, gear shifts & collisions in real time | PIC16F877A, DS1307 RTC, EEPROM, CLCD |
+| 🍽️ **[Microwave Oven Simulation](#)** | Bare-metal cooking states, no RTOS | Timer2 ISR, 8+ state FSM |
+
 ---
 
 <!-- ### 📊 GitHub Stats
@@ -79,3 +90,4 @@ I'm an EEE graduate who fell in love with what's *underneath* the code — regis
 </p>
 
 <p align="center"><i>"From pointers to peripherals—always exploring how systems work."</i></p>
+
