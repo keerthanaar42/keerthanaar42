@@ -13,7 +13,7 @@
 
 ### ⚡ About Me
 
-I'm an EEE graduate who fell in love with what's *underneath* the code — registers, interrupts, and system calls. I don't treat hardware as a black box; my electrical engineering background lets me reason about the circuit **and** the C that talks to it.
+I'm an EEE graduate who fell in love with what's *underneath* the code — registers, interrupts, and system calls. I don't treat hardware as a black box; my electrical engineering background lets me reason about the circuit and the C that talks to it.
 
 - 🔭 Currently building systems-level projects in **C** — shells, network protocols, and PIC16F877A firmware
 - ⚙️ I enjoy building practical projects—from embedded applications to interactive utilities that solve everyday problems.
